@@ -1,0 +1,10 @@
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\bin\Debug\Parcial2.0.exe.config
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\bin\Debug\Parcial2.0.exe
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\bin\Debug\Parcial2.0.pdb
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.csprojAssemblyReference.cache
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2._0.Properties.Resources.resources
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.csproj.GenerateResource.cache
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.csproj.CoreCompileInputs.cache
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.exe
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.pdb
+C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2._0.frmPrincipal.resources
