@@ -8,3 +8,13 @@ C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.csproj.CoreComp
 C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.exe
 C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2.0.pdb
 C:\Users\AruchaUser\Desktop\Hola\Parcial2.0\obj\Debug\Parcial2._0.frmPrincipal.resources
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\bin\Debug\Parcial2.0.exe.config
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\bin\Debug\Parcial2.0.exe
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\bin\Debug\Parcial2.0.pdb
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2.0.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2._0.frmPrincipal.resources
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2._0.Properties.Resources.resources
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2.0.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2.0.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2.0.exe
+C:\Users\rober\Desktop\Parte Edwin\Parcial2.0\obj\Debug\Parcial2.0.pdb
